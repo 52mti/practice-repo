@@ -1,2 +1,5 @@
 do some changes
 什么时候才能找到工作？😑
+
+this line belongs to fixbug
+------now i fixed some bug--------------
